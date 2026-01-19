@@ -9,7 +9,7 @@ This repository contains the code and visualizations for the N1 Health Data Chal
 - **Tier 4** contains 330 counties and 7.78 million people, who are moderately in need and should be monitored.  
 - **Tier 5** contains the remaining counties.  
 
-With over 40 million people in the first three tiers, a projected program participation rate of 50–85% (on par with SNAP participation in 2022 for different groups, according to the USDA) would mean 20–34 million people assisted. The population groups most impacted by this program are low-income individuals, children, and seniors. One detail to note is that in Tier 3, the proportion of American Indian/Alaska Natives is comparatively higher than in the other tiers.  
+With over 40 million people in the first three tiers, a projected program participation rate of 50–85% (on par with SNAP participation in 2022 for different groups, according to the [USDA](https://fns-prod.azureedge.us/sites/default/files/resource-files/ops-snap-trends-fy20fy22-summary.pdf)) would mean 20–34 million people assisted. The population groups most impacted by this program are low-income individuals, children, and seniors. One detail to note is that in Tier 3, the proportion of American Indian/Alaska Natives is comparatively higher than in the other tiers.  
 
 The projected impacts of this program include reduced food insecurity, increased economic stability for households, and healthier diets, which can lead to improved health outcomes due to greater food availability.
 
